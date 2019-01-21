@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17C5643F21F5A012001EA331 /* NewObjec.m in Sources */ = {isa = PBXBuildFile; fileRef = 17C5643E21F5A012001EA331 /* NewObjec.m */; };
 		A5AFE6B01F2877110082E3E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A5AFE6AF1F2877110082E3E4 /* main.m */; };
 		A5AFE6B31F2877110082E3E4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5AFE6B21F2877110082E3E4 /* AppDelegate.m */; };
 		A5AFE6B61F2877110082E3E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5AFE6B51F2877110082E3E4 /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17C5643D21F5A012001EA331 /* NewObjec.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewObjec.h; sourceTree = "<group>"; };
+		17C5643E21F5A012001EA331 /* NewObjec.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewObjec.m; sourceTree = "<group>"; };
 		A5AFE6AB1F2877110082E3E4 /* CaculatorBlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaculatorBlock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5AFE6AF1F2877110082E3E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A5AFE6B11F2877110082E3E4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				A5AFE6E51F2877D40082E3E4 /* CaculatorMaker.m */,
 				A5AFE6E71F288B3F0082E3E4 /* Caculator.h */,
 				A5AFE6E81F288B3F0082E3E4 /* Caculator.m */,
+				17C5643D21F5A012001EA331 /* NewObjec.h */,
+				17C5643E21F5A012001EA331 /* NewObjec.m */,
 				A5AFE6B71F2877110082E3E4 /* Main.storyboard */,
 				A5AFE6BA1F2877110082E3E4 /* Assets.xcassets */,
 				A5AFE6BC1F2877110082E3E4 /* LaunchScreen.storyboard */,
@@ -295,6 +300,7 @@
 				A5AFE6E61F2877D40082E3E4 /* CaculatorMaker.m in Sources */,
 				A5AFE6E91F288B3F0082E3E4 /* Caculator.m in Sources */,
 				A5AFE6B61F2877110082E3E4 /* ViewController.m in Sources */,
+				17C5643F21F5A012001EA331 /* NewObjec.m in Sources */,
 				A5AFE6B31F2877110082E3E4 /* AppDelegate.m in Sources */,
 				A5AFE6B01F2877110082E3E4 /* main.m in Sources */,
 			);
@@ -534,6 +540,7 @@
 				A5AFE6DA1F2877110082E3E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5AFE6DB1F2877110082E3E4 /* Build configuration list for PBXNativeTarget "CaculatorBlockTests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +549,7 @@
 				A5AFE6DD1F2877110082E3E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5AFE6DE1F2877110082E3E4 /* Build configuration list for PBXNativeTarget "CaculatorBlockUITests" */ = {
 			isa = XCConfigurationList;
@@ -550,6 +558,7 @@
 				A5AFE6E01F2877110082E3E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
