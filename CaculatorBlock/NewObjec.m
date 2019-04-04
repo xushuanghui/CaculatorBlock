@@ -12,5 +12,7 @@
 
 //1.git reset 重置暂存区
 //2.git reset --hard 重置暂存区和工作区
+//3.git reset --hard <commit> 重置到指定commit
+
 
 @end
