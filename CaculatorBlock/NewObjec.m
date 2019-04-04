@@ -10,4 +10,7 @@
 
 @implementation NewObjec
 
+//1.git reset 重置暂存区
+
+
 @end
