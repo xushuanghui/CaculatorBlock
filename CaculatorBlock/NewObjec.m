@@ -11,6 +11,6 @@
 @implementation NewObjec
 
 //1.git reset 重置暂存区
-
+//2.git reset --hard 重置暂存区和工作区
 
 @end
