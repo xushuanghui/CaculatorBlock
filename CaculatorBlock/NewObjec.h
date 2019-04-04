@@ -15,3 +15,6 @@ NS_ASSUME_NONNULL_BEGIN
 @end
 
 NS_ASSUME_NONNULL_END
+
+
+//2.git reset --hard 重置暂存区和工作区
